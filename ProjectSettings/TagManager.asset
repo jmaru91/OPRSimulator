@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ship
+  - asteroid
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Battlefield
+    uniqueID: 1883683661
+    locked: 0
+  - name: Terrains
+    uniqueID: 4037119623
+    locked: 0
+  - name: Units
+    uniqueID: 313817837
     locked: 0
